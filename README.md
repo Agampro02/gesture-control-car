@@ -74,15 +74,15 @@ DC Motors
 ## Repository Structure
 
 ```text
+## 📁 Project Structure
+
 gesture-control-car/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
 ├── src/
-│   ├── transmitter/
-│   │   └── transmitter.ino
-│   └── receiver/
-│       └── receiver.ino
+│   ├── transmitter.ino
+│   └── receiver.ino
 └── docs/
     └── circuit-connections.md
 ```
